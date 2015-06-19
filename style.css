@@ -6,12 +6,34 @@ header, main, footer {
 	min-width: 855px;
 }
 
-h1, h2, h3, h4, h5 {
-	font-family: 'Droid Sans', sans-serif;
+h1 {
+	font-family: 'Unbuntu', sans-serif;
+	font-size: 250%;
+}
+
+h2 {
+	font-family: 'Unbuntu', sans-serif;
+	font-size: 200%;
+}
+
+h3 {
+	font-family: 'Unbuntu', sans-serif;
+	font-size: 150%;
+}
+
+h4 {
+	font-family: 'Unbuntu', sans-serif;
+	font-size: 75%;
+}
+
+h5 {
+	font-family: 'Unbuntu', sans-serif;
+	font-size: 50%;
 }
 
 p, a {
-	font-family: 'Unbuntu', sans-serif;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 100%;
 }
 
 header .container, main .container, footer .container {
